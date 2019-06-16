@@ -1,0 +1,25 @@
+[{
+        "area": "Red",
+        "zipcode-start": "1",
+        "zipcode-end": "1000",
+        "price": "50"
+    },
+    {
+        "area": "Blue",
+        "zipcode-start": "1001",
+        "zipcode-end": "1500",
+        "price": "30"
+    },
+    {
+        "area": "Green",
+        "zipcode-start": "1501",
+        "zipcode-end": "2200",
+        "price": "15"
+    },
+    {
+        "area": "Yellow",
+        "zipcode-start": "2201",
+        "zipcode-end": "3000",
+        "price": "7"
+    }
+]
