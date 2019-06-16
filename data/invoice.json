@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "numPlate": "DK2440",
+        "amount": 45
+    },
+    {
+        "id": 2,
+        "numPlate": "DK5890",
+        "amount": 100
+    },
+    {
+        "id": 3,
+        "numPlate": "DK1569",
+        "amount": 150
+    },
+    {
+        "id": "4",
+        "numPlate": "DK1569",
+        "amount": "200"
+    }
+]

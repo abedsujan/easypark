@@ -10,10 +10,9 @@ class Zone {
         return this._zoneData;
     }
     getZoneByName(name) {
-        return this._zoneData.filter((zone => {
+        return this._zoneData.find((zone => {
             return zone.area.toLowerCase() == name.toLowerCase()
         }));
-
     }
 }
 
